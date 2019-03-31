@@ -1,0 +1,6 @@
+tmp/*
+webroot/index.php
+Cake/*
+Config/database.php
+.idea/*
+nbproject/*
